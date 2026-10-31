@@ -1,0 +1,13 @@
+{title: Patterns of Moveable Embellished Chords}
+{define: 6th 0 x x 2.R 4.5 2.6 4.3}
+{define: Dim7 0 x x 2.R 3.b5 2.bb7 3.b3}
+{define: m6 0 x x 3.R 1.b3 3.6 1.R}
+{define: m6 0 x 2.6 3.b3 2.5 3.R x}
+{define: 7b9 0 x 3.R 2.3 3.b7 2.b9 x}
+{define: m7 0 x 3.R 1.b3 3.b7 1.R x}
+{define: 9th 0 x 3.R 2.3 3.b7 3.9 x}
+{define: 6th 0 x x 3.R 2.3 3.6 1.R}
+{define: m9 0 x 3.R 1.b3 3.b7 3.9 x}
+{define: maj7 0 x x 4.R 3.3 2.5 1.7}
+{define: m6 0 x x 3.R 1.b3 3.6 1.R}
+{define: maj7 0 x 1.R 3.5 2.7 3.3 1.5}
